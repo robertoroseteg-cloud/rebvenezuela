@@ -1,5 +1,32 @@
 [
   {
+    "id": "7d4da2997bf1c0a8",
+    "titulo": "Contra la amnesia: el terremoto de Venezuela, el momento histórico y la cuestión continental",
+    "fuente": "Venezuela – Rebelion",
+    "enlace": "https://rebelion.org/contra-la-amnesia-el-terremoto-de-venezuela-el-momento-historico-y-la-cuestion-continental/",
+    "archivo": "7d4da2997bf1c0a8.mp3",
+    "bytes": 4529664,
+    "timestamp": 1784443936
+  },
+  {
+    "id": "84e3445039d60ca2",
+    "titulo": "La economía telúrica y el capitalismo del desastre en Venezuela",
+    "fuente": "Venezuela – Rebelion",
+    "enlace": "https://rebelion.org/la-economia-telurica-y-el-capitalismo-del-desastre-en-venezuela/",
+    "archivo": "84e3445039d60ca2.mp3",
+    "bytes": 8057808,
+    "timestamp": 1784443925
+  },
+  {
+    "id": "dfb9cf43d66eb4bb",
+    "titulo": "Venezuela: petróleo, imperialismo y crisis de hegemonía",
+    "fuente": "Venezuela – Rebelion",
+    "enlace": "https://rebelion.org/venezuela-petroleo-imperialismo-y-crisis-de-hegemonia/",
+    "archivo": "dfb9cf43d66eb4bb.mp3",
+    "bytes": 7671456,
+    "timestamp": 1784443854
+  },
+  {
     "id": "0005e4a216e25322",
     "titulo": "El bloqueo de EE.UU. y las víctimas de los terremotos en Venezuela",
     "fuente": "Venezuela – Rebelion",
@@ -151,32 +178,5 @@
     "archivo": "1f84211339589cd4.mp3",
     "bytes": 3278304,
     "timestamp": 1783231451
-  },
-  {
-    "id": "415e157481f468c8",
-    "titulo": "Posterremoto en Venezuela: el riesgo de una ocupación militar disfrazada de reconstrucción",
-    "fuente": "Venezuela – Rebelion",
-    "enlace": "https://rebelion.org/posterremoto-en-venezuela-el-riesgo-de-una-ocupacion-militar-disfrazada-de-reconstruccion/",
-    "archivo": "415e157481f468c8.mp3",
-    "bytes": 3322800,
-    "timestamp": 1783231420
-  },
-  {
-    "id": "1624460c840980c7",
-    "titulo": "Venezuela: que los escombros no tapen la realidad",
-    "fuente": "Venezuela – Rebelion",
-    "enlace": "https://rebelion.org/venezuela-que-los-escombros-no-tapen-la-realidad/",
-    "archivo": "1624460c840980c7.mp3",
-    "bytes": 2353536,
-    "timestamp": 1783231386
-  },
-  {
-    "id": "674b118ea7216a6b",
-    "titulo": "Manipular la tragedia humana de Venezuela",
-    "fuente": "Venezuela – Rebelion",
-    "enlace": "https://rebelion.org/manipular-la-tragedia-humana-de-venezuela/",
-    "archivo": "674b118ea7216a6b.mp3",
-    "bytes": 2231280,
-    "timestamp": 1783231365
   }
 ]
