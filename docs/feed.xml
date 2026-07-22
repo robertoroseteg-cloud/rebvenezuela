@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Han llegado los sionistas a Venezuela</title>
+      <description>Venezuela – Rebelion — https://rebelion.org/venezuela-flex-han-llegado-los-sionistas/</description>
+      <link>https://rebelion.org/venezuela-flex-han-llegado-los-sionistas/</link>
+      <guid isPermaLink="false">994498a1878f933f</guid>
+      <pubDate>Wed, 22 Jul 2026 17:01:59 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebvenezuela/episodios/994498a1878f933f.mp3" length="4729536" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>EE.UU. impone su plan de «tutela» política, económica y financiera a Venezuela</title>
       <description>Venezuela – Rebelion — https://rebelion.org/ee-uu-impone-su-plan-de-tutela-politica-economica-y-financiera-a-venezuela/</description>
       <link>https://rebelion.org/ee-uu-impone-su-plan-de-tutela-politica-economica-y-financiera-a-venezuela/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">dbfeb9bd6a06d9f0</guid>
       <pubDate>Sun, 05 Jul 2026 07:14:31 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebvenezuela/episodios/dbfeb9bd6a06d9f0.mp3" length="1661328" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La mejor ayuda para Venezuela es levantar el bloqueo</title>
-      <description>Venezuela – Rebelion — https://rebelion.org/la-mejor-ayuda-para-venezuela-es-levantar-el-bloqueo/</description>
-      <link>https://rebelion.org/la-mejor-ayuda-para-venezuela-es-levantar-el-bloqueo/</link>
-      <guid isPermaLink="false">9ab010c1c4dc0d72</guid>
-      <pubDate>Sun, 05 Jul 2026 06:04:36 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebvenezuela/episodios/9ab010c1c4dc0d72.mp3" length="1422144" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
