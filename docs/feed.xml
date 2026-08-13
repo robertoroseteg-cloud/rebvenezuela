@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Terremoto transnacional de clase</title>
+      <description>Venezuela – Rebelion — https://rebelion.org/terremoto-transnacional-de-clase/</description>
+      <link>https://rebelion.org/terremoto-transnacional-de-clase/</link>
+      <guid isPermaLink="false">0cc177438b77e805</guid>
+      <pubDate>Thu, 13 Aug 2026 13:27:43 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebvenezuela/episodios/0cc177438b77e805.mp3" length="2511360" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Brigadas médicas cubanas atienden a familias refugiadas en Caracas pese a la amenaza estadounidense</title>
       <description>Venezuela – Rebelion — https://rebelion.org/brigadas-medicas-cubanas-atienden-a-familias-refugiadas-en-caracas-pese-a-la-amenaza-estadounidense/</description>
       <link>https://rebelion.org/brigadas-medicas-cubanas-atienden-a-familias-refugiadas-en-caracas-pese-a-la-amenaza-estadounidense/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">7c8d7b4aa7411b09</guid>
       <pubDate>Sun, 05 Jul 2026 07:18:49 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebvenezuela/episodios/7c8d7b4aa7411b09.mp3" length="5579136" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Las guerras por Guerrero</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/las-guerras-por-guerrero-2/</description>
-      <link>https://desinformemonos.org/las-guerras-por-guerrero-2/</link>
-      <guid isPermaLink="false">b9c7c02dd55c5ef7</guid>
-      <pubDate>Sun, 05 Jul 2026 07:18:05 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebvenezuela/episodios/b9c7c02dd55c5ef7.mp3" length="3403296" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

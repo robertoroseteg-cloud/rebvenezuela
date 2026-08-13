@@ -1,5 +1,14 @@
 [
   {
+    "id": "0cc177438b77e805",
+    "titulo": "Terremoto transnacional de clase",
+    "fuente": "Venezuela – Rebelion",
+    "enlace": "https://rebelion.org/terremoto-transnacional-de-clase/",
+    "archivo": "0cc177438b77e805.mp3",
+    "bytes": 2511360,
+    "timestamp": 1786627663
+  },
+  {
     "id": "01cd65030705f778",
     "titulo": "Brigadas médicas cubanas atienden a familias refugiadas en Caracas pese a la amenaza estadounidense",
     "fuente": "Venezuela – Rebelion",
@@ -169,14 +178,5 @@
     "archivo": "7c8d7b4aa7411b09.mp3",
     "bytes": 5579136,
     "timestamp": 1783235929
-  },
-  {
-    "id": "b9c7c02dd55c5ef7",
-    "titulo": "Las guerras por Guerrero",
-    "fuente": "Columnas – Desinformémonos",
-    "enlace": "https://desinformemonos.org/las-guerras-por-guerrero-2/",
-    "archivo": "b9c7c02dd55c5ef7.mp3",
-    "bytes": 3403296,
-    "timestamp": 1783235885
   }
 ]
