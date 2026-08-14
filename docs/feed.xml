@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Los partidos ilegalizados vuelven a la agenda</title>
+      <description>Venezuela – Rebelion — https://rebelion.org/los-partidos-ilegalizados-vuelven-a-la-agenda/</description>
+      <link>https://rebelion.org/los-partidos-ilegalizados-vuelven-a-la-agenda/</link>
+      <guid isPermaLink="false">28865bba90145065</guid>
+      <pubDate>Fri, 14 Aug 2026 13:23:00 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebvenezuela/episodios/28865bba90145065.mp3" length="3728016" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Terremoto transnacional de clase</title>
       <description>Venezuela – Rebelion — https://rebelion.org/terremoto-transnacional-de-clase/</description>
       <link>https://rebelion.org/terremoto-transnacional-de-clase/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">509edd7068bc3bb3</guid>
       <pubDate>Sun, 05 Jul 2026 23:00:30 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebvenezuela/episodios/509edd7068bc3bb3.mp3" length="5075712" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Zulema, la intrépida “Claudia”</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/zulema-la-intrepida-claudia/</description>
-      <link>https://desinformemonos.org/zulema-la-intrepida-claudia/</link>
-      <guid isPermaLink="false">7c8d7b4aa7411b09</guid>
-      <pubDate>Sun, 05 Jul 2026 07:18:49 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebvenezuela/episodios/7c8d7b4aa7411b09.mp3" length="5579136" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
