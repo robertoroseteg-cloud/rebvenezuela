@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>«Cuentos de hadas» de regreso a clases</title>
+      <description>Rebelión · Venezuela — https://rebelion.org/cuentos-de-hadas-de-regreso-a-clases/</description>
+      <link>https://rebelion.org/cuentos-de-hadas-de-regreso-a-clases/</link>
+      <guid isPermaLink="false">6ef70c2170dacfbc</guid>
+      <pubDate>Sat, 24 Oct 2026 15:59:11 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebvenezuela/episodios/6ef70c2170dacfbc.mp3" length="4967712" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Deuda de Venezuela: ¿quién debe qué a quién bajo la tutela neocolonial de Estados Unidos?</title>
       <description>Venezuela – Rebelion — https://rebelion.org/deuda-de-venezuela-quien-debe-que-a-quien-bajo-la-tutela-neocolonial-de-estados-unidos/</description>
       <link>https://rebelion.org/deuda-de-venezuela-quien-debe-que-a-quien-bajo-la-tutela-neocolonial-de-estados-unidos/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">026adc6ceacbfc98</guid>
       <pubDate>Sun, 05 Jul 2026 23:01:00 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebvenezuela/episodios/026adc6ceacbfc98.mp3" length="1805472" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Venezuela: la doble catástrofe</title>
-      <description>Venezuela – Rebelion — https://rebelion.org/venezuela-la-doble-catastrofe/</description>
-      <link>https://rebelion.org/venezuela-la-doble-catastrofe/</link>
-      <guid isPermaLink="false">e3e1913f3c36dab6</guid>
-      <pubDate>Sun, 05 Jul 2026 23:00:56 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebvenezuela/episodios/e3e1913f3c36dab6.mp3" length="3181248" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
