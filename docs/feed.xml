@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Oliver Blanco: de pedir que juzgaran a Hugo Chávez por «criminal» a Canciller de Delcy Rodríguez</title>
+      <description>Rebelión · Venezuela — https://rebelion.org/oliver-blanco-de-pedir-que-juzgaran-a-hugo-chavez-por-criminal-a-canciller-de-delcy-rodriguez/</description>
+      <link>https://rebelion.org/oliver-blanco-de-pedir-que-juzgaran-a-hugo-chavez-por-criminal-a-canciller-de-delcy-rodriguez/</link>
+      <guid isPermaLink="false">22e5efe3b8841a14</guid>
+      <pubDate>Mon, 02 Nov 2026 21:39:04 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebvenezuela/episodios/22e5efe3b8841a14.mp3" length="2676096" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>«Cuentos de hadas» de regreso a clases</title>
       <description>Rebelión · Venezuela — https://rebelion.org/cuentos-de-hadas-de-regreso-a-clases/</description>
       <link>https://rebelion.org/cuentos-de-hadas-de-regreso-a-clases/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">0005e4a216e25322</guid>
       <pubDate>Sun, 05 Jul 2026 23:01:03 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebvenezuela/episodios/0005e4a216e25322.mp3" length="2437344" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Sanciones homicidas contra Venezuela</title>
-      <description>Venezuela – Rebelion — https://rebelion.org/sanciones-homicidas-contra-venezuela/</description>
-      <link>https://rebelion.org/sanciones-homicidas-contra-venezuela/</link>
-      <guid isPermaLink="false">026adc6ceacbfc98</guid>
-      <pubDate>Sun, 05 Jul 2026 23:01:00 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebvenezuela/episodios/026adc6ceacbfc98.mp3" length="1805472" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
