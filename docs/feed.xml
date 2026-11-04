@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Los garantes de la «paz»</title>
+      <description>Rebelión · Venezuela — https://rebelion.org/los-garantes-de-la-paz/</description>
+      <link>https://rebelion.org/los-garantes-de-la-paz/</link>
+      <guid isPermaLink="false">6f0d18df7e8ab31b</guid>
+      <pubDate>Wed, 04 Nov 2026 19:40:12 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebvenezuela/episodios/6f0d18df7e8ab31b.mp3" length="3831264" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Oliver Blanco: de pedir que juzgaran a Hugo Chávez por «criminal» a Canciller de Delcy Rodríguez</title>
       <description>Rebelión · Venezuela — https://rebelion.org/oliver-blanco-de-pedir-que-juzgaran-a-hugo-chavez-por-criminal-a-canciller-de-delcy-rodriguez/</description>
       <link>https://rebelion.org/oliver-blanco-de-pedir-que-juzgaran-a-hugo-chavez-por-criminal-a-canciller-de-delcy-rodriguez/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">dfb9cf43d66eb4bb</guid>
       <pubDate>Sun, 19 Jul 2026 06:50:54 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebvenezuela/episodios/dfb9cf43d66eb4bb.mp3" length="7671456" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>El bloqueo de EE.UU. y las víctimas de los terremotos en Venezuela</title>
-      <description>Venezuela – Rebelion — https://rebelion.org/el-bloqueo-de-ee-uu-y-las-victimas-de-los-terremotos-en-venezuela/</description>
-      <link>https://rebelion.org/el-bloqueo-de-ee-uu-y-las-victimas-de-los-terremotos-en-venezuela/</link>
-      <guid isPermaLink="false">0005e4a216e25322</guid>
-      <pubDate>Sun, 05 Jul 2026 23:01:03 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebvenezuela/episodios/0005e4a216e25322.mp3" length="2437344" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
